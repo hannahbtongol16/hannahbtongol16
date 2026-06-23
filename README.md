@@ -1,9 +1,12 @@
+<img width="1280" height="511" alt="6183692165742006312" src="https://github.com/user-attachments/assets/c013cc34-0d6d-4278-b2b5-8a4db83dff31" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hannah!+%F0%9F%8C%B7;IT+Applications+Development+Student+%F0%9F%92%BB;Content+Creator+%F0%9F%8E%A8;Entrepreneur+%F0%9F%9A%80" />
 </p>
 
-# 💫 About Me:
+# <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/a7e1e3b7-91b2-4185-93d3-bd4cb1d726d3" /> about me
+filipino girl from singapore <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/048896a9-9640-41ce-9d6b-c9bbf6218e2a" />
+ <br><br>
 🔭 I’m currently working on growing my coding skills and building personal projects.<br><br>🌱 I’m currently learning IT Applications Development at ITE College Central.<br><br>👯 I’m looking for someone who can be an video editor for my videos and be creative and beginner-friendly tech projects.<br><br>💬 Ask me about coding, content creation, Canva, CapCut, and running a small business.<br><br>📫 How to reach me: tiktok: @urfavpinoygirlh<br><br>⚡ Fun fact: I like to sing, dnace, play guitar, content creation, and running my small business, HappyShopByHannah!
 
 
